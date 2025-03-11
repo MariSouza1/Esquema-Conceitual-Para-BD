@@ -5,6 +5,8 @@ Este repositório tem o modelo conceitual de um banco de dados desenvolvido para
 
 Instrutora: Juliana Mascarenhas
 
+---
+
 🎯 Objetivo do Projeto apresentado pelo DIO
 Criar todas as entidades, relacionamentos e atributos após o levantamento de requisitos propostos.
 
@@ -17,12 +19,19 @@ Criar todas as entidades, relacionamentos e atributos após o levantamento de re
 ✔ Os mecânicos possuem código, nome, endereço e especialidade
 ✔ Cada OS possui: data de emissão, um valor, status e uma data para conclusão dos trabalhos.
 
+---
+
 🛠 Tecnologias Utilizadas
 Modelagem de Banco de Dados
 MySQL WorkBench
+
+---
+
 🗂 Estrutura do Projeto
 📄 (Projeto 2) Construindo um Esquema Conceitual para Banco De dados.png → Imagem do diagrama do banco de dados
 📜 (Projeto 2) Construindo um Esquema Conceitual para Banco De dados.mwb → MySQL Workbench File (.mwb) com a estrutura do banco de dados
-📌 Autor 👤 Mariany de Souza Luiz 🔗 https://github.com/MariSouza1
 
+---
+
+📌 Autor 👤 Mariany de Souza Luiz 🔗 https://github.com/MariSouza1
 Desafio proposto pela DIO
